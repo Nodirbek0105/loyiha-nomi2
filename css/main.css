@@ -1,0 +1,114 @@
+a {
+    text-decoration: none;
+}
+ul {
+    color: #000000;
+    display: flex;
+    padding: 18px;
+    gap: 30px;
+}
+button {
+    color: #ffffff;
+    background-color:#3D55F9;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: end;
+
+}
+.button {
+    padding: 34px;
+    margin: 1px 49px 52px 678px;
+}
+button:hover {
+    color:#777;
+    background-color: cornsilk;
+}
+header {
+    display: flex;
+    text-align: center;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+saction1>img {
+    width: 447px;
+    height: auto;
+}
+.saction1{
+    gap: 40px;
+}
+.saction1 {
+    margin: 200px 43px 10px 39px;
+}
+.sation2 {
+    margin: 153px 305px 10px 10px
+}
+.saction2-part2 {
+    margin:272px 0px 0px 0px;
+}
+.saction3-part1 {
+    margin: 216px 0px 337px 162px;
+}
+
+
+span {
+    border-radius: 28px;
+    color: white;
+    background-color: #3D55F9;
+}
+.saction3-img{
+    margin: -290px 10px 317px 812px;
+}
+.saction3-img2 {
+    margin: -375px 10px 154px 813px;
+}
+.saction3-img3 {
+    margin: -279px 113px 343px 807px;
+}
+.aa {
+        margin: -24px 62px -37px 64px;
+        color:#F0BCA3;
+        
+}
+.saction4-part1 {
+    margin: 59px 0px 0px 57px;
+}
+.saction4-part2>img {
+margin: 117px 10px 10px 10px;
+}
+.traking{
+    margin: -527px 5px 16px 800px;
+}
+.saction4-part4 {
+    margin: 500px 10px 10px 10px;
+}
+.saction4-part_img{
+    margin: -392px 9px 110px 901px;
+}
+.saction4-part51{
+    margin: -515px 10px 10px 670px;
+}
+.Abaut {
+    margin: 178px 10px 10px 228px ;
+}
+.vw{
+    margin: 215px 10px 10px 10px;
+
+}
+.obshi {
+    margin: -583px 10px 10px 810px;
+}
+.bind{ 
+    margin: 215px 10px 10px 525px;
+}
+.d {
+    margin: -5px 10px 10px 239px
+}
+.h {
+    margin: 12px 10px 226px 92px;
+}
+.sa {
+    margin: -205px 10px 10px 10px;
+}
